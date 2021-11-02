@@ -1,4 +1,4 @@
-# Tartaruga
+# Turtle
 Este código em python usa a biblioteca turtle e usa da leitura de arquivo txt para resolver o problema descrito abaixo.
 Obs:Tarefa da faculdade
 
